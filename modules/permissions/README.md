@@ -55,5 +55,5 @@ rationale, and will automatically open the settings pointing to your app details
 the do not ask again checkbox.
 
 You can see how to easily implement a higher-level overload that suits the UX you want to provide
-for permissions requests with [that example](../../samples/android-app/src/androidMain/kotlin/com/example/splitties/extensions/permissions/SampleEnsurePermission.kt),
-and you can see how it is used in [PermissionsExampleActivity](../../samples/android-app/src/androidMain/kotlin/com/example/splitties/permissions/PermissionsExampleActivity.kt).
+for permissions requests with [that example](../../samples/android-app/src/main/kotlin/com/example/splitties/extensions/permissions/SampleEnsurePermission.kt),
+and you can see how it is used in [PermissionsExampleActivity](../../samples/android-app/src/main/kotlin/com/example/splitties/permissions/PermissionsExampleActivity.kt).
